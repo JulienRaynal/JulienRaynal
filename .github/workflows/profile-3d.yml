@@ -22,14 +22,3 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
-  metrics:
-    runs-on: ubuntu-latest
-    name: generate-github-metrics
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.CLASSIC_KEY }}
-          user: ${{ secrets.CLASSIC_KEY }}
-          template: repository
