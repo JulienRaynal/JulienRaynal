@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  profile-3d:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
@@ -22,3 +22,14 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+  metrics:
+    runs-on: ubuntu-latest
+    name: generate-github-metrics
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.TOKEN }}
+          user: ${{ secrets.OWNER }}
+          template: repository
