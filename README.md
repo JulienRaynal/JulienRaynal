@@ -8,9 +8,7 @@ I also like penguins 🐧.
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="https://github.com/JulienRaynal/JulienRaynal/assets/59729220/8e24ef99-a162-4871-81f5-69c7c0023189" />
 
 
-## Stats
-:-----------------------------:|:-----------------------------:
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 <!--
 **JulienRaynal/JulienRaynal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,4 +24,9 @@ Here are some ideas to get you started:![banner]()
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+## Stats
+:-----------------------------:|:-----------------------------:
+![](./profile-3d-contrib/profile-green-animate.svg)
 -->
