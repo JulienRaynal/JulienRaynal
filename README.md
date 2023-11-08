@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/JulienRaynal/JulienRaynal/assets/59729220/fe2d5590-d88e-4f4f-b540-1ab2f596746d)](https://github.com/JulienRaynal) <!-- https://polycount.com/discussion/210187/ue4-ghost-in-the-shell-majors-bedroom -->
 
-I'm a bioinformatician student specializing in machine learning and AI.   
+I'm a bioinformatician student specializing in machine learning and algorithm programmation.   
 I also like penguins 🐧.
 
 ## Life 
