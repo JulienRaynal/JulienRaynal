@@ -7,13 +7,13 @@ I also like penguins 🐧.
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="https://github.com/JulienRaynal/JulienRaynal/assets/59729220/8e24ef99-a162-4871-81f5-69c7c0023189" />
 
 ### Studies
-- Bachelor in Biology @[**Université de Montpellier**](https://biologie-mv-fds.edu.umontpellier.fr/licence-sciences-de-la-vie-new/)
+- Bachelor in Biology @[**University of Montpellier**](https://biologie-mv-fds.edu.umontpellier.fr/licence-sciences-de-la-vie-new/)
 - Bachelor in CS at @[**EPSI**](https://www.epsi-formations.pro/formation/concepteur-developpeur-dapplications/)
-- Master in Bioinformatics at @[**Université de Montpellier**](https://formations-en.umontpellier.fr/fr/formations/master-lmd-XB/master-bioinformatique-KKI9GZEV.html)
+- Master in Bioinformatics at @[**University of Montpellier**](https://formations-en.umontpellier.fr/fr/formations/master-lmd-XB/master-bioinformatique-KKI9GZEV.html)
 
 ### Career
 - Back-end engineer @[**Linxo**](https://www.linxo.com/)
-- Trainee researcher @[**Université de Sherbrooke**](https://www.usherbrooke.ca/)
+- Trainee researcher @[**University of Sherbrooke**](https://www.usherbrooke.ca/)
 - Trainee researcher @[**IGMM/LIRMM/IMAG**](https://www.igmm.cnrs.fr/service/equipe-igmm-lirmm-imag-regulations-genomiques-computationnelles/)
   
 ### Miscellaneous
